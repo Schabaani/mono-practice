@@ -2,10 +2,12 @@
   "name": "@schabaani/banana",
   "version": "1.0.1",
   "main": "index.js",
+  "private": "false",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "gitHead": "26c7f6120280c90e4e539984617ba45ca3efd1aa"
 }
